@@ -1,3 +1,11 @@
 # Simple create react app template
 
-This template install react, react-dom, sass, add scss normalize file and deletes all test and unwanted files.
+This is a template for create-react-app.
+
+## Installation
+
+To use this template within your project add '--template simple-template' when creating a new app.
+
+```bash
+npx create-react-app react-app --template simple-template
+```

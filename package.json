@@ -1,12 +1,12 @@
 {
   "name": "cra-template-simple-template",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "keywords": [
     "react",
     "create-react-app",
     "template"
   ],
-  "description": "This template don't create unwanded files and install sass as devDependencies",
+  "description": "This is a create react app template.",
   "main": "template.json",
   "license": "MIT",
   "engines": {
@@ -15,6 +15,7 @@
   "bugs": {
     "url": "https://github.com/facebook/create-react-app/issues"
   },
+  "repository": "https://github.com/shakthi2003gh/cra-template-simple-template.git",
   "files": [
     "template",
     "template.json"
